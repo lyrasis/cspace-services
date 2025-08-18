@@ -7,7 +7,7 @@
 	<!-- The value of the 'id' attribute, below, should match the corresponding -->
 	<!-- value in cspace/config/services/tenants/anthro-tenant-bindings-proto.xml -->
 
-	<tenant:tenantBinding id="100052">
+	<tenant:tenantBinding id="105">
 		<tenant:serviceBindings merge:matcher="id" id="Reports">
 			<service:properties xmlns:service="http://collectionspace.org/services/config/service" xmlns:types="http://collectionspace.org/services/config/types">
 				<types:item merge:matcher="skip" merge:action="insert">
